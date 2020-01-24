@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: image/workoutmachine.png
+image: image/push.png
 title: Workout Machine
 permalink: projects/workoutmachine
 # All dates must be YYYY-MM-DD format!
