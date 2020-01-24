@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "dean-fujimoto",
         "url": "https://www.linkedin.com/in/dean-fujimoto-79b56a16b/"
-      },
+      }
     ]
   },
   "interests": [
@@ -55,7 +55,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
+        "Assembly"
       ]
     },
     {
@@ -75,8 +75,7 @@
       "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2016-9-1",
-      "endDate": "Present",
-      "courses": [
+      "endDate": "Present"[
       ]
     }
   ],
