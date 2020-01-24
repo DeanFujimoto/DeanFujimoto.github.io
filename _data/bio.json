@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Dean Fujimoto",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "deantf@hawaii.edu",
+    "phone": "",
+    "website": "https://DeanFujimoto.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "DeanFujimoto",
+        "url": "http://github.com/DeanFujimoto"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "dean-fujimoto",
+        "url": "https://www.linkedin.com/in/dean-fujimoto-79b56a16b/"
       },
       {
         "network": "twitter",
@@ -39,7 +39,7 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Computer Engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -51,14 +51,14 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Semiconductors",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Sales",
       "level": "",
       "keywords": [
         "C",
