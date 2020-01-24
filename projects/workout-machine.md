@@ -13,7 +13,6 @@ labels:
 summary: Responsible for designing a novel workout machine from Johnson Health Tech.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
 As a Freshman at the University of Wisconsin, my group was tasked with designing a functional prototype for Johnson Health Tech. Our group was tasked with designing a machine that Johnson Health Tech had never seen before. We were required to create a prototype as well as file for a patent for this new design. 
 
