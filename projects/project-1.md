@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/graphene.jpg
+image: images/Graphene.jpg
 title: Graphene Photodetector
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
