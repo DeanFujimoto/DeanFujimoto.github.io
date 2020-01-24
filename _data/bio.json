@@ -27,24 +27,7 @@
       }
     ]
   }
-  "interests": [
-    {
-      "name": "Computer Engineering",
-      "keywords": [
-  
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Semiconductors",
-      "keywords": [
-      ]
-    }
-  ],
+ 
   "skills": [
     {
       "name": "Programming",
