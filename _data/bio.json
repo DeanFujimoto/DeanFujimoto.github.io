@@ -26,13 +26,12 @@
         "url": "https://www.linkedin.com/in/dean-fujimoto-79b56a16b/"
       }
     ]
-  
+  }
   "interests": [
     {
       "name": "Computer Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+  
       ]
     },
     {
@@ -72,7 +71,7 @@
  
   
 
-   ],
+   
   ],
   "references": [
     {
