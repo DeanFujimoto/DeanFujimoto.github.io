@@ -1,6 +1,6 @@
 ---
-layout: essays
-type: essays
+layout: essay
+type: essay
 title: My intro to Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
