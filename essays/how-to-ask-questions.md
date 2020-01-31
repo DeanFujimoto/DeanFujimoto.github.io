@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: essays
+type: essays
 title: How to Ask Questions
 # All dates must be YYYY-MM-DD format!
 date: 2020-1-30
