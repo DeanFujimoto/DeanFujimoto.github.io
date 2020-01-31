@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: essays
+type: essays
 title: The race to learn javascript
 date: 2020-1-23
 labels:
