@@ -1,14 +1,13 @@
 ---
-layout: essays
-type: essays
-title: How to Ask Questions
+layout: essay
+type: essay
+title: How to ask Questions
 # All dates must be YYYY-MM-DD format!
-date: 2020-1-30
+date: 2020-01-29
 labels:
-  - Computer Engineering
-  - JavaScript
-  - Questions
-  - Sales
+  - Stack overflow
+  - Question
+  - Answer
 ---
 
 Ever since we were children, we were taught “there’s no such thing as a bad question.” I found this to be wildly inaccurate and my teachers would often scorn me for asking dumb questions.  As a sales person, I found that bad questions are the WORST, they can not only make the person you are asking feel unlistened to, but it can create horrible awkward silences. 
