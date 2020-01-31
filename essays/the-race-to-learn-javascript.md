@@ -1,12 +1,12 @@
 ---
-layout: essays
-type: essays
+layout: essay
+type: essay
 title: The race to learn javascript
-date: 2020-1-23
+# All dates must be YYYY-MM-DD format!
+date: 2020-01-23
 labels:
   - Computer Engineering
-  - Learning
-  - Javascript
+  - JavaScript
 ---
 In Computer Engineering, I have never had any experience with the JavaScript language. While we may have experience with C, C++, some assembly languages, and Java; I have never experienced a language that is so easy to use. It seems that JavaScript would be easier to use since it does not require pointers and it does not require specific variable types (as far as I know). Also, there are probably limitations with not being able to call pointers directly. 
 
