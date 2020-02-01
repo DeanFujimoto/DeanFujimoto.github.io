@@ -13,7 +13,9 @@ labels:
 
 summary: Responsible for creating a robot that can be accessed by anyone online.
 ---
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/ellie.png">
+</div>
 
 For my EE 396 project, I was tasked with designed with creating a robot that can be accessed by anyone online. The reason we had to shut it down was actually because it worked too well and it became a security issue, since it could be accessed by anyone online. We named it Ellie Bot.
 
