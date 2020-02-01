@@ -13,7 +13,7 @@ labels:
 
 summary: Responsible for creating a robot that can be accessed by anyone online.
 ---
-<div class="ui big rounded images">
+<div class="ui huge rounded images">
   <img class="ui image" src="../images/ellie.png">
 </div>
 
