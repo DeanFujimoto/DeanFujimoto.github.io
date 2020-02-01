@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/telepresenserobot.png
+image: images/elliebot.jpg
 title: Telepresence Robot
 permalink: projects/telepresencerobot
 # All dates must be YYYY-MM-DD format!
