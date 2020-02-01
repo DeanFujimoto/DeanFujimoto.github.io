@@ -11,7 +11,9 @@ labels:
   - Diodes
 summary: My team tested to see if graphene would make a suitable photodetector.
 ---
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/honey.jpg">
+</div>
 
 Graphene was known for it's incredible strength and conduction capabilities a few years ago. Today, we have realized that it is very expensive and difficult to produce. My group learned that the hard way when our project was to see if graphene would be a suitable photodetector. The short answer is: it wouldn't work and if it did work it would be too expensive. 
 
