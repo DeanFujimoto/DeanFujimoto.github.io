@@ -21,6 +21,26 @@
       }
     ]
   },
+  
+  "interests": [
+    {
+      "name": "surfing",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "golf",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "electrical engineering",
+      "keywords": [
+      ]
+    }
+  ],
  
   "skills": [
     {
