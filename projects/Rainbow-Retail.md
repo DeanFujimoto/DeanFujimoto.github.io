@@ -1,3 +1,19 @@
+---
+layout: project
+type: project
+image: images/profilebutton.png
+title: Rainbow Retail
+permalink: projects/Rainbow-Retail
+# All dates must be YYYY-MM-DD format!
+date: 2020-1-23
+labels:
+  - Semiconductors
+  - Diodes
+summary: My team tested to see if graphene would make a suitable photodetector.
+---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/honey.jpg">
+</div>
 # Rainbow Retail
 
 This was an idea by Professor Johnson in my ICS314 class. The idea was to create a craigslist/ebay type site made exclusively for UH students. On this website you can buy and sell with user profiles linked to UH accounts. You can then chat with them and try to bargain. I was in charge of extra features such as the I’m feeling lucky page, landing page and linking the navbar. 
