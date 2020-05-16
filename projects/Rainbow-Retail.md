@@ -5,7 +5,7 @@ image: images/profilebutton.png
 title: Rainbow Retail
 permalink: projects/Rainbow-Retail
 # All dates must be YYYY-MM-DD format!
-date: 2020-1-23
+date: 2020-5-15
 labels:
   - Semiconductors
   - Diodes
