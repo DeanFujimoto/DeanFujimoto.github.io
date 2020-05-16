@@ -6,7 +6,7 @@
     "email": "deantf@hawaii.edu",
     "phone": "",
     "website": "https://DeanFujimoto.github.io",
-    "summary": "I have graduated with a B.S. in Computer Engineering at the University of Hawaii. I graduated in Spring 2020. I am interested investing and online security.",
+    "summary": "I have graduated with a B.S. in Computer Engineering at the University of Hawaii. I graduated in Spring 2020. I am interested in investing and online security.",
 
     "profiles": [
       {
@@ -54,7 +54,10 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly"
+        "Assembly",
+        "HTML",
+        "CSS"
+        
       ]
     }
   ],
